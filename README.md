@@ -1,9 +1,8 @@
 Hi 👋 My name is Giuliano Tommaso Colombo
 =========================================
-
 Computer Science Student
 ------------------------
-
+* 👀 I’m interested in Cybersecurity and Programming
 * 🌍  I'm based in Milano
 * ✉️  You can contact me at [giuliano.colombo04@gmail.com](mailto:giuliano.colombo04@gmail.com)
 
